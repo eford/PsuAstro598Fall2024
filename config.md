@@ -9,14 +9,14 @@ mintoclevel = 2
 # Base files such as LICENSE.md and README.md are ignored by default.
 ignore = ["node_modules/"]
 
-prepath = "Fall2024"
+prepath = "PsuAstro589Fall2024"
 
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = false
 website_title = "Astro 598"
 website_descr = "Astro 598 (Fall 2024)"
-website_url   = "https://PsuAstro598.github.io/Fall2024/"
+website_url   = "https://eford.github.io/PsuAstro589Fall2024/"
 version = "v0.1"
 
 # Class specific variables
