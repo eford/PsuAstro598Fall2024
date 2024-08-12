@@ -15,7 +15,7 @@
 <div class="docs-nav">
 <div class="accordion-container">
   <ul class="menu menu-nav">
-    <div class="menu-header"><a href="syllabus/">Syllabus</a></div>
+    <div class="menu-header"><a href="/syllabus/">Syllabus</a></div>
     {{ispage syllabus/*}}
     {{menuitem "syllabus/basics"  "Basic Info"}}
     {{menuitem "syllabus/goals"   "Goals"     }}
@@ -27,9 +27,11 @@
     {{menuitem "syllabus/safety"  "Safety"    }}
     {{menuitem "syllabus/academic_integrity"  "Academic Integrity"    }}
     {{menuitem "syllabus/additional_statements"  "Additional Statements"    }}
+    <div class="menu-header"><a href="/presentations/">Presentations</a></div>
+    <div class="menu-header"><a href="/resources/">Resources</a></div>
     {{end}}
 <!---
-    <div class="menu-header"><a href="lessons/">Lessons</a></div>
+    <div class="menu-header"><a href="/lessons/">Lessons</a></div>
     {{ispage lessons/*}}
     {{menuitem "lessons/week1"  "Week 1"   }}
     {{menuitem "lessons/week2"  "Week 2"    }}
@@ -50,12 +52,10 @@
     {{menuitem "lessons/week16"  "Week 16"    }}
     {{end}}
   -->
+  {{isnotpage syllabus/*}}
     <div class="menu-header"><a href="presentations/">Presentations</a></div>
-    {{ispage presentations/*}}
-    {{end}}
-
     <div class="menu-header"><a href="resources/">Resources</a></div>
-
+  {{end}}
   </ul>
 </div>
 </div>
