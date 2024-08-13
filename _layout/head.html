@@ -9,7 +9,7 @@
     <style>
     @font-face {
       font-family: JuliaMono-Regular;
-      src: url("/Astro497/{{artifact JuliaMono juliamono-0.044 webfonts JuliaMono-Regular.woff2}}");
+      src: url("/PsuAstro589Fall2024/{{artifact JuliaMono juliamono-0.044 webfonts JuliaMono-Regular.woff2}}");
     }
     </style>
 
@@ -19,8 +19,8 @@
   <link rel="stylesheet" href="/css/spectre-overrides.css">
   <link rel="stylesheet" href="/css/docs.min.css">
 
-  <title>{{fill title}} - {{fill website_title}}</title>
-  <meta name="description" content="Penn State Astro 497: Data Science Applications for Exoplanets">
+  <title>{{fill website_descr}} - {{fill class_name}}</title>
+  <meta name="description" content="Penn State Astro 598: EPRV Surveys">
 
 
     {{if hasplotly}}
@@ -55,8 +55,10 @@
 
 </head>
 <body>
+{{isnotpage syllabus/index.html}}
   <div class="docs-container off-canvas off-canvas-sidebar-show">
   {{insert menu.html}}
+{{end}}
 
 
 <div class="off-canvas-content">

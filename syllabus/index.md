@@ -6,6 +6,7 @@ lessons =  ["lessons/week1.md", "lessons/week2.md"]
 
 @@h1 Seminar in Current Astronomical Research:  @@
 @@h2 {{ class_name }} @@
+([website]({{website_url}}))
 
 # Syllabus
 (version {{version}})
