@@ -1,10 +1,11 @@
 +++
-title = "Syllabus"
+title = "Syllabus (for printing)"
 tags = ["logistics"]
 +++
 
 @@h1 Seminar in Current Astronomical Research:  @@
 @@h2 {{ class_name }} @@
+([Return to website]({{website_url}}))
 
 # Syllabus
 (version {{version}})
