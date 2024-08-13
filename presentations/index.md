@@ -10,7 +10,7 @@ Subsequently, each student (or perhaps small group of students) will lead at lea
 All students will be expected to devote approximately one hour per week to reading and submitting questions/comments on the reading (typically via Perusall, see link from course webpage in Canvas).  
 Reading questions and comments are due 24 hours before the start of class, so the presenter has time to incorporate these into their discussion plans.  
 
-See the [presentations section of the syllabus](/syllabus/presentations/) for details on what is expected and the timeline for preparing your presentation.  
+See the [presentations section of the syllabus](/syllabus/presentations/) for details about what is expected and the timeline for preparing your presentation.  
 
 
 ## Suggested Topics for Student-led Presentations & Discussions
