@@ -28,6 +28,4 @@ lessons =  ["lessons/week1.md", "lessons/week2.md"]
 
 \textinput{syllabus/academic_integrity}
 
-\textinput{syllabus/safety}
-
 \textinput{syllabus/additional_statements}

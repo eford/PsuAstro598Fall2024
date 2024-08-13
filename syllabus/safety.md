@@ -1,1 +1,0 @@
-../_assets/syllabus/safety.md
