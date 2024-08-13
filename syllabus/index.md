@@ -12,8 +12,6 @@ lessons =  ["lessons/week1.md", "lessons/week2.md"]
 
 \textinput{syllabus/goals}
 
-\textinput{syllabus/preparation}
-
 \textinput{syllabus/schedule}
 
 \textinput{syllabus/preparation}

@@ -8,7 +8,7 @@ tags = ["presentations", "logistics", "overview"]
 Each student (or perhaps small group of students) will lead at least one class discussion on a relevant topic of interest on their assigned date.  
 The number and duration of presentations will depend on the number of students enrolled.
 See the [presentations section of the syllabus](/syllabus/presentations.md) for details on what is expected and the timeline for preparing your presentation.  
-See the [resources page](/resources/) to help get started finding some readings that might be relevant for your topic.
+
 
 ## Suggested Topics for Presentations
 - PRV/EPRV data analysis
@@ -46,6 +46,6 @@ See the [resources page](/resources/) to help get started finding some readings 
    - Astrometry
    - Direct Imaging
 
-Students are welcome to propose one of the topics above, a variation on one of the topics above, or an additional topic that is of particular interest to them.  
+Students are welcome to propose one of the topics above, a combination or variation on one or two of the topics above, or an additional topic that is of particular interest to them.  
 Students should suggest at least one source for them to read and select portions for other students to read.  
-
+See the [resources page](/resources/) to help get started finding some readings that might be relevant for your topic.
