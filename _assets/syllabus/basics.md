@@ -1,6 +1,7 @@
 ## Basic Information
 
-- Course: {{class_number}}: {{class_name}} ({{fill semester}})
+- Course: {{class_number}}: {{class_name}} 
+- Semester: ({{fill semester}})
 - Class Meetings: {{class_times}}
 - Location: {{class_location_long }}
 - Instructor: {{instructor_name}}

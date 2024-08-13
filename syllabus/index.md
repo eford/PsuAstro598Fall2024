@@ -4,7 +4,9 @@ tags = ["logistics"]
 lessons =  ["lessons/week1.md", "lessons/week2.md"]
 +++
 
-@@h1 {{ class_name }} @@
+@@h1 Seminar in Current Astronomical Research:  @@
+@@h2 {{ class_name }} @@
+
 # Syllabus
 (version {{version}})
 
