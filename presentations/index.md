@@ -11,11 +11,12 @@ See the [presentations section of the syllabus](/syllabus/presentations.md) for 
 
 
 ## Suggested Topics for Presentations
-- PRV/EPRV data analysis
+- PRV/EPRV data reduction
    - Spectral extraction 
    - Wavelength calibration
    - RVs from Cross-Correlation Function (CCF) 
    - RVs from template fitting
+- Exoplanet detection & modeling
    - Establishing the statistical significance of detections
    - Model fitting: Measuring exoplanet masses and orbits
    - Model fitting: Modeling multiple-planet systems
@@ -41,10 +42,10 @@ See the [presentations section of the syllabus](/syllabus/presentations.md) for 
    - Current/upcoming instruments: ESPRESSO, EXPRES, MAROON-X, NEID, KPF, iLocator
    - Calibration systems
 - Combing EPRV with other methods
-   - Transits 
-      - Rossiter-McLaughlin Effect
+   - Transit photometry 
+   - Rossiter-McLaughlin effect
    - Astrometry
-   - Direct Imaging
+   - Direct imaging
 
 Students are welcome to propose one of the topics above, a combination or variation on one or two of the topics above, or an additional topic that is of particular interest to them.  
 Students should suggest at least one source for them to read and select portions for other students to read.  
