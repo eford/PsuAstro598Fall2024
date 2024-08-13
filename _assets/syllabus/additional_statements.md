@@ -13,14 +13,14 @@ In the event of any changes to the schedule (e.g., due to a campus closure or de
 The Eberly College of Science [Code of Mutual Respect and Cooperation](https://science.psu.edu/climate-and-diversity/code-mutual-respect-and-cooperation) embodies the values that we hope our faculty, staff, and students possess and will endorse to make The Eberly College of Science a place where every individual feels respected and valued, as well as challenged and rewarded.
 Please visit the link to review the 12 points that comprise this code.
 
-## Academic Support
+## Academic Success
 The Eberly College of Science is committed to the academic success of students enrolled in the College's courses and undergraduate programs.
-When in need of help, students can utilize various College and University wide resources for learning assistance. [https://science.psu.edu/current-students/support-network](https://science.psu.edu/current-students/support-network).
+When in need of help, students can utilize various College and University wide resources for learning assistance. [ https://science.psu.edu/current-students/advising-and-student-services/academic-support-services]( https://science.psu.edu/current-students/advising-and-student-services/academic-support-services).
 
 ## Disability Accommodation Statement
 
 Penn State welcomes students with disabilities into the University’s educational programs. Every Penn State campus has an office for students with disabilities. Student Disability Resources (SDR) website provides contact information for every Penn State campus
-([http://equity.psu.edu/sdr/disability-coordinator](http://equity.psu.edu/sdr/disability-coordinator)). For further information, please visit Student Disability Resources website ([http://equity.psu.edu/sdr/](http://equity.psu.edu/sdr/)).
+([https://equity.psu.edu/offices/student-disability-resources/campus-offices](https://equity.psu.edu/offices/student-disability-resources/campus-offices)). For further information, please visit Student Disability Resources ([https://equity.psu.edu/offices/student-disability-resources](https://equity.psu.edu/offices/student-disability-resources)).
 
 In order to receive consideration for reasonable accommodations, you must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: See documentation guidelines
 ([http://equity.psu.edu/sdr/guidelines](http://equity.psu.edu/sdr/guidelines)). If the documentation supports your request for reasonable accommodations, your campus disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early as possible. You must follow this process for every semester that you request accommodations.
