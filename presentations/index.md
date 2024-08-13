@@ -1,16 +1,19 @@
 +++
-title = "Class Presentations"
-tags = ["presentations", "logistics", "overview"]
+title = "Student-led Discussions"
+tags = ["presentations", "discussions", "logistics", "overview"]
 +++
 
-## Student Presentations
+## Student-led Presentations & Discussions
 
-Each student (or perhaps small group of students) will lead at least one class discussion on a relevant topic of interest on their assigned date.  
-The number and duration of presentations will depend on the number of students enrolled.
-See the [presentations section of the syllabus](/syllabus/presentations.md) for details on what is expected and the timeline for preparing your presentation.  
+The instructor will lead discussions for the first few weeks.  
+Subsequently, each student (or perhaps small group of students) will lead at least one class discussion on a relevant topic of interest on their assigned date.  
+All students will be expected to devote approximately one hour per week to reading and submitting questions/comments on the reading (typically via Perusall, see link from course webpage in Canvas).  
+Reading questions and comments are due 24 hours before the start of class, so the presenter has time to incorporate these into their discussion plans.  
+
+See the [presentations section of the syllabus](/syllabus/presentations/) for details on what is expected and the timeline for preparing your presentation.  
 
 
-## Suggested Topics for Presentations
+## Suggested Topics for Student-led Presentations & Discussions
 - PRV/EPRV data reduction
    - Spectral extraction 
    - Wavelength calibration
