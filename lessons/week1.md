@@ -18,8 +18,3 @@ Week {{week_num}}
 ## {{exo_topic}}
 - Read sections X [Extreme Precision Radial Velocity Working Group Final Report](https://ui.adsabs.harvard.edu/abs/2021arXiv210714291C/abstract) Crass et al. (2021)
 
-<!--
-- Read *Exoplanets*: Introduction to Exoplanets:   Sec. 1-6.2
-- Submit reading question before Friday's class.
-- [Notebook from class](https://psuastro497.github.io/Fall2022/notebooks/week1day3/)
--->
