@@ -17,7 +17,7 @@ generate_rss = false
 website_title = "Astro 589"
 website_descr = "Astro 589 (Fall 2024)"
 website_url   = "https://eford.github.io/PsuAstro589Fall2024/"
-version = "v0.1"
+version = "v1.0"
 
 # Class specific variables
 class_name = "Extremely Precise Radial Velocity Surveys"

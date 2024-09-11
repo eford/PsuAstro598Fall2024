@@ -1,10 +1,17 @@
 +++
-title = "Resources & Readings"
-tags = ["resources", "readings"]
+title = "Resources"
+tags = ["resources", "slides", "notebooks", "readings"]
 +++
 
-# Resources & Potential Readings
+# Resources 
 
+## [Slides from class](https://drive.google.com/drive/folders/1H5mFzBSMISdLx6HjuDVBP72CShdfZk6T?usp=sharing) (link for students only)
+
+## Interactive Notebooks 
+- [CCFs](https://eford.github.io/PsuAstro589Fall2024/notebooks/week3ccf/)
+- [Periodograms & Aliasing](https://eford.github.io/PsuAstro589Fall2024/notebooks/week3aliasing/)
+
+## Potential Readings
 ### Overview of EPRV 
 - [Extreme Precision Radial Velocity Working Group Final Report](https://ui.adsabs.harvard.edu/abs/2021arXiv210714291C/abstract) Crass et al. (2021), Executive Summary
 
@@ -52,6 +59,9 @@ tags = ["resources", "readings"]
 
 
 
-#### Website tools
+## Website tools
 - [Franklin.jl docs](https://franklinjl.org/syntax/markdown/)
+- [PlutoStaticHTML.jl](https://github.com/rikhuijzer/PlutoStaticHTML.jl)
+- [Pluto](https://plutojl.org/)
+- [Julia](https://julialang.org/)
 

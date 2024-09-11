@@ -9,11 +9,12 @@ The instructor will lead discussions for the first few weeks.
 Subsequently, each student (or perhaps small group of students) will lead at least one class discussion on a relevant topic of interest on their assigned date.  
 All students will be expected to devote approximately one hour per week to reading and submitting questions/comments on the reading (typically via Perusall, see link from course webpage in Canvas).  
 Reading questions and comments are due 24 hours before the start of class, so the presenter has time to incorporate these into their discussion plans.  
-
 See the [presentations section of the syllabus](/syllabus/presentations/) for details about what is expected and the timeline for preparing your presentation.  
 
+## Schedule of Reading/Discussion Topics
+\textinput{syllabus/schedule_table}
 
-## Suggested Topics for Student-led Presentations & Discussions
+## Suggestions for Potential Topics for Student-led Presentations & Discussions
 - PRV/EPRV data reduction
    - Spectral extraction 
    - Wavelength calibration
