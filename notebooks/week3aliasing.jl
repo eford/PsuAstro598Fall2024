@@ -22,6 +22,16 @@ begin
 	using PlutoUI, PlutoTeachingTools
 end
 
+# ╔═╡ 5033b71b-2669-4618-b3cc-f332f4f97332
+md"""
+# Demo of Periodograms & Aliasing
+"""
+
+# ╔═╡ 49d6f3fa-9ed0-4ddd-88ab-7fd93976c22d
+md"""
+## Observing Schedules
+"""
+
 # ╔═╡ 68436251-9aab-4331-aea9-2b39c58fe6e1
 md"""
 Numbs of Observations: $(@bind nobs NumberField(10:10:1000, default=50)) $nbsp $nbsp $nbsp 
@@ -43,10 +53,15 @@ RV Measurement uncertainty: $(@bind σ_rv NumberField(0:0.2:10, default=1.0)) m/
 $(@bind regenerate_residuals Button("Regenerate measurement errors"))
 """
 
+# ╔═╡ 897afa4d-1799-48f7-8af9-5f682095c0c5
+md"""
+## Periodograms
+"""
+
 # ╔═╡ d875ab2c-bba3-4724-9735-15ed95f69c34
 md"""
 
-Oversampling factor: $(@bind oversamp NumberField(1:1:100, default=1))
+Oversampling factor: $(@bind oversamp NumberField(1:1:128, default=8))
 """
 
 # ╔═╡ a96cc9b8-c17d-4fbe-bb3e-269f43a153b6
@@ -54,19 +69,19 @@ md"""
 Maximum perturbation to observing time: $(@bind max_Δtobs_hr NumberField(0.0:1:100.0, default=3.0)) hours
 """
 
-# ╔═╡ 4ec8a1c4-24f7-4ce5-bf18-bb453fe2db2f
-md"""
-# Parameters
-"""
-
 # ╔═╡ a189254a-0a00-4613-8865-48c1b2b98868
 md"""
 # Calculations
 """
 
+# ╔═╡ 4ec8a1c4-24f7-4ce5-bf18-bb453fe2db2f
+md"""
+### Additional Parameters
+"""
+
 # ╔═╡ 2d439eea-6c1f-4ac2-b220-dcdee31fbca0
 md"""
-#### Generate Observation Times
+## Generate Observation Times
 """
 
 # ╔═╡ 6fe8f2e6-2813-4786-bb6f-cd4a1c142c2b
@@ -74,18 +89,18 @@ t_daily = collect(1:nobs);
 
 # ╔═╡ 57a95b94-adea-4357-91c1-413497a4ad98
 md"""
-### Simulate Observations
+## Simulate Observations
 """
 
 # ╔═╡ 75eeea42-ee5b-4346-ba16-d264efcbe5fc
 begin
 	regenerate_residuals
 	rv_residuals = σ_rv .* randn(nobs);
-end
+end;
 
 # ╔═╡ 825a655f-6a79-48a5-bdc5-c6c595b1e58e
 md"""
-### Compute Periodograms
+## Compute Periodograms
 """
 
 # ╔═╡ 4d5b032f-f212-4dcf-8d6b-88768707202c
@@ -115,7 +130,6 @@ function periodogram(y::AbstractVector, t::AbstractVector,
 	predict = Vector{Float64}(undef,n)
 	periodogram_rss = Vector{Float64}(undef,length(P_grid))
 	periodogram_K = Vector{Float64}(undef,length(P_grid))
-	#build_design_matrix_sinusoidal!(A,first(P_grid),t)
 	
 	for (i,P) in enumerate(P_grid)
 		build_design_matrix_sinusoidal!(A,P,t)
@@ -137,19 +151,19 @@ end
 
 # ╔═╡ a7fbd697-c199-41f1-93bc-26af3c233290
 md"""
-### Helpers for UI/Plotting
+## Helpers for UI/Plotting
 """
 
 # ╔═╡ 6afb29d8-5da2-454e-bd53-6c154b028e15
 begin
 	sched_list = [:daily => "Daily", :regular => "Regular", :perturbed=> "Perturbed", :uniform => "Uniform", :none=>"None"]
 	sched_dict = Dict(first.(sched_list) .=> last.(sched_list))
-end
+end;
 
 # ╔═╡ 3a0c8be2-f9a2-4b58-84ad-012fffa5530a
 md"""
-Observing Schedule 1: $(@bind sched1 Select(sched_list))
-Observing Schedule 2: $(@bind sched2 Select(sched_list,:none))
+Observing Schedule 1: $(@bind sched1 Select(sched_list,:regular))
+Observing Schedule 2: $(@bind sched2 Select(sched_list,:uniform))
 """
 
 # ╔═╡ af7dc5ec-a8f8-4dbc-ba19-c2281ad8bdf4
@@ -213,7 +227,7 @@ t_uniform = collect(sort(time_span * rand(nobs)));
 
 # ╔═╡ b3e6c84e-3a99-4d39-9403-faa3d1461688
 let
-	plt = plot(xlabel="Time (d)", ylabel="Observation #", title="Observing Schedules")
+	plt = plot(xlabel="Time (d)", ylabel="Observation #", #= title="Observing Schedules"=# )
 	plot!(plt,t_daily, 1:nobs, label="Daily",lw=3)
 	plot!(plt,t_regular, 1:nobs, label="Regular",lw=3)
 	plot!(plt,t_perturbed, 1:nobs, label="Perturbed",lw=3)
@@ -2033,11 +2047,14 @@ version = "1.4.1+1"
 """
 
 # ╔═╡ Cell order:
+# ╟─5033b71b-2669-4618-b3cc-f332f4f97332
+# ╟─49d6f3fa-9ed0-4ddd-88ab-7fd93976c22d
 # ╟─b3e6c84e-3a99-4d39-9403-faa3d1461688
 # ╟─68436251-9aab-4331-aea9-2b39c58fe6e1
 # ╟─c8266d34-24af-46f9-810e-9517bb424bf9
 # ╟─1152b0cf-42cf-4e72-88bd-b2044e327641
 # ╟─48bf4d0e-2165-43fa-864a-b99e1baa2b86
+# ╟─897afa4d-1799-48f7-8af9-5f682095c0c5
 # ╟─3a0c8be2-f9a2-4b58-84ad-012fffa5530a
 # ╟─c7b899d4-ac4f-488b-a961-99c8e078edde
 # ╟─75aff9e0-8106-4ca9-9b44-aeb4931f8ffb
@@ -2045,9 +2062,9 @@ version = "1.4.1+1"
 # ╟─d875ab2c-bba3-4724-9735-15ed95f69c34
 # ╟─a96cc9b8-c17d-4fbe-bb3e-269f43a153b6
 # ╟─b3f41b1e-95bf-4f7c-b28b-40d741b601e1
-# ╟─4ec8a1c4-24f7-4ce5-bf18-bb453fe2db2f
-# ╟─406ba98f-998b-4046-97ce-af8385657445
 # ╟─a189254a-0a00-4613-8865-48c1b2b98868
+# ╟─4ec8a1c4-24f7-4ce5-bf18-bb453fe2db2f
+# ╠═406ba98f-998b-4046-97ce-af8385657445
 # ╟─2d439eea-6c1f-4ac2-b220-dcdee31fbca0
 # ╠═6fe8f2e6-2813-4786-bb6f-cd4a1c142c2b
 # ╠═3c1b2e64-7dbb-4b93-bbac-1df253461808

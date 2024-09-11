@@ -46,6 +46,7 @@ function build()
     return nothing
 end
 
+
 "Add a link to the notebook at the bottom of each tutorial."
 function append_notebook_links()
     dir = TUTORIALS_DIR
@@ -58,7 +59,7 @@ function append_notebook_links()
         url = "/notebooks/$jl_file"
         open(md_path, "a") do io
             text = """\n
-                _To run this tutorial locally, download [this file]($url) and open it with
+                _To run this notebook locally, download [this file](../$jl_file) and open it with
                 [Pluto.jl](https://plutojl.org)._
                 """
             write(io, text)

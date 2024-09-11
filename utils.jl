@@ -27,7 +27,7 @@ function lx_readhtml(com, _)
     file = string(Franklin.content(com.braces[1]))::String
     dir = joinpath("notebooks")
     html_path = joinpath(dir, "$file.html")
-    jl_path = joinpath(dir, "$file.jl")
+    jl_path = joinpath(dir, "../$file.jl")
 
     return """
         ```julia:pluto
@@ -38,7 +38,7 @@ function lx_readhtml(com, _)
         path = "$html_path"
         html = read(path, String)
         println("~~~\n\$html\n~~~\n")
-        println("_To run this blog post locally, open [this notebook](/$jl_path) with Pluto.jl._")
+        println("_To run this notebook locally, open [this notebook](/$jl_path) with Pluto.jl._")
         ```
         \\textoutput{pluto}
         """
