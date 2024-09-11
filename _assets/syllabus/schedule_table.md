@@ -2,8 +2,8 @@
 | ---- | ------ | --------- |:-------------------------------- |:------- |
 |  1   | Aug 28 | Ford      | Overview of Course & What is EPRV? | Crass et al. (2021), Exec Summary | 
 |  2   | Sep 4  | Ford      | Intro to Precision RV Observations | Hara & Ford (2023), S1-2.3 |  
-|  3   | Sep 11 | Ford      | Intro to RV Analysis | Harra & Ford (2023), S3-4.5 |  
-|  4   | Sep 18 | Ford      | Intro to Stellar Variability | Crass et al (2021), Appendix A.2 |  
+|  3   | Sep 11 | Ford      | Intro to RV Extraction | Harra & Ford (2023), S3 |  
+|  4   | Sep 18 | Ford      | Intro to RV Analysis | Harra & Ford (2023), S4-4.5 |  
 |  5   | Sep 25 | HG        | EPRV Instruments | TBD | 
 |  6   | Oct 2  | CR        | EPRV Wavelength Calibration | TBD |  
 |  7   | Oct 9  | KS        | Stellar Variability: Magnetic Activity | TBD |
