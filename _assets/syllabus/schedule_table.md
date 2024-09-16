@@ -1,11 +1,11 @@
 | Week | Date   | Leader | Topic | Reading | 
 | ---- | ------ | --------- |:-------------------------------- |:------- |
-|  1   | Aug 28 | Ford      | Overview of Course & What is EPRV? | Crass et al. (2021), Exec Summary | 
-|  2   | Sep 4  | Ford      | Intro to Precision RV Observations | Hara & Ford (2023), S1-2.3 |  
-|  3   | Sep 11 | Ford      | Intro to RV Extraction | Harra & Ford (2023), S3 |  
-|  4   | Sep 18 | Ford      | Intro to RV Analysis | Harra & Ford (2023), S4-4.5 |  
-|  5   | Sep 25 | HG        | EPRV Instruments | TBD | 
-|  6   | Oct 2  | CR        | EPRV Wavelength Calibration | TBD |  
+|  1   | Aug 28 | Ford      | Overview of Course & What is EPRV? | [Crass et al. (2021)]((https://ui.adsabs.harvard.edu/abs/2021arXiv210714291C/abstract)), Exec Summary | 
+|  2   | Sep 4  | Ford      | Intro to Precision RV Observations | [Hara & Ford (2023)](https://ui.adsabs.harvard.edu/abs/2023AnRSA..10..623H/abstract), S1-2.3 |  
+|  3   | Sep 11 | Ford      | Intro to RV Extraction | [Harra & Ford (2023)](https://ui.adsabs.harvard.edu/abs/2023AnRSA..10..623H/abstract), S3 |  
+|  4   | Sep 18 | Ford      | Intro to RV Analysis | [Harra & Ford (2023)](https://ui.adsabs.harvard.edu/abs/2023AnRSA..10..623H/abstract), S4-4.5 |  
+|  5   | Sep 25 | HG        | EPRV Instruments | [Schwab et al. (2016)](https://ntrs.nasa.gov/api/citations/20180004146/downloads/20180004146.pdf) | 
+|  6   | Oct 2  | CR        | EPRV Wavelength Calibration | [HPF blog](https://hpf.psu.edu/2019/02/19/the-hpf-astro-comb/), [Metcalf et al. (2019)](https://doi.org/10.1364/OPTICA.6.000233) |  
 |  7   | Oct 9  | KS        | Stellar Variability: Magnetic Activity | TBD |
 |  8   | Oct 16 | RZ        | Classical Activity Indicators | TBD |
 |  9   | Oct 23 | EB        | EPRV Survey Design | TBD |

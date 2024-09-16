@@ -14,14 +14,16 @@ tags = ["resources", "slides", "notebooks", "readings"]
 ## Potential Readings
 ### Overview of EPRV 
 - [Extreme Precision Radial Velocity Working Group Final Report](https://ui.adsabs.harvard.edu/abs/2021arXiv210714291C/abstract) Crass et al. (2021), Executive Summary
+- [State of the Field: Extreme Precision Radial Velocities](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F/abstract)
 
 ### Introduction to EPRV Observations & Analysis
 - [Statistical Methods for Exoplanet Detection with Radial Velocities](https://ui.adsabs.harvard.edu/abs/2023AnRSA..10..623H/abstract) Hara & Ford (2023)
 
 ### Instrumentation & Wavelength Calibration
-- [State of the Field: Extreme Precision Radial Velocities](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F/abstract)
 - [Design of NEID, an extreme precision Doppler spectrograph for WIYN](https://ui.adsabs.harvard.edu/abs/2016SPIE.9908E..7HS/abstract) Schwab et al. (2016)
 - [A comprehensive radial velocity error budget for next generation Doppler spectrometers](http://adsabs.harvard.edu/abs/2016SPIE.9908E..6PH) Halverson et al. (2016)
+- [The HPF Astro-Comb (blog post)](https://hpf.psu.edu/2019/02/19/the-hpf-astro-comb/)
+- [Stellar spectroscopy in the near-infrared with a laser frequency comb](https://doi.org/10.1364/OPTICA.6.000233) Metcalf et al. (2019)
 - [Excalibur: A Nonparametric, Hierarchical Wavelength Calibration Method for a Precision Spectrograph](https://ui.adsabs.harvard.edu/abs/2021AJ....161...80Z/abstract) Zhao et al. (2021)
 
 ### Stellar Variability & Activity Indicators
