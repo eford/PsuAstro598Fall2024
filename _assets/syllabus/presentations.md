@@ -17,11 +17,12 @@ Provide a link to a PDF version of any readings that can be freely redistributed
 Once the primary sources are agreed upon, the student(s) should read the article(s) thoughtfully, prepare an outline for their prepared in-class presentation and intended discussion points, and submit the outline to the instructor.   
 Submissions may be simple ASCII text, a link to a collaborative document (e.g., Google Doc, Overleaf document), or a PDF.  
 A typical outline would include: (1) plan for prepared materials (aim for approximately 15 minutes) that could include background or context (e.g., material from sections not included in the assigned reading) or an explanation of any particularly important concepts/methods/results/figures; and (2) potential questions and/or other prompts/active learning exercises designed to simulate constructive discussion via Perusal and/or during class.  
-Students are encouraged to schedule a time to meet with the instructor after they have had a chance to begin thinking about how to incoporate any feedback and building their presentation materials, so they can ask any questions about their presentation/discussion topics.
+There is an example outline in the [shared google drive folder](https://drive.google.com/drive/folders/1H5mFzBSMISdLx6HjuDVBP72CShdfZk6T?usp=sharing) (link valid for PSU students only).  Students are encouraged to schedule a time to meet with the instructor after they have had a chance to begin thinking about how to incoporate any feedback and building their presentation materials, so they can ask any questions about their presentation/discussion topics.
 \\
 
 **Roughly one week before their presentation/discussion (and no later than 9am on the Monday prior to class):**  
-Students should submit draft presentation materials via Canvas.  A link to a collaborative document is encouraged.  A PDF is also acceptable.  Any presentation prepared in a format that requires special software (e.g., Mac-specific formats) will have to be converted to something the instructor can easily open.  
+Students should submit draft presentation materials via Canvas.  A link to a collaborative document is encouraged, as that facilitates suggestions and replies.  A PDF is also acceptable.   
+Any presentation prepared in a format that requires special software (e.g., Mac-specific formats) will have to be converted to PDF (or something else that the instructor can easily open).  
 Students are also encouraged to add some questions/comments to the assigned reading in Perusal to help jump start discussion among other students.  
 \\
 
