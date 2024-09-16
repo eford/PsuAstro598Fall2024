@@ -35,11 +35,11 @@ tags = ["resources", "slides", "notebooks", "readings"]
 
 ### Survey Design
 - [Target Prioritization and Observing Strategies for the NEID Earth Twin Survey](https://ui.adsabs.harvard.edu/abs/2021AJ....161..130G/abstract) Gupta et al. (2021)
-- [Impact of Correlated Noise on the Mass Precision of Earth-analog Planets in Radial Velocity Surveys](https://ui.adsabs.harvard.edu/abs/2023AJ....165...98L/abstract)
+- [Impact of Correlated Noise on the Mass Precision of Earth-analog Planets in Radial Velocity Surveys](https://ui.adsabs.harvard.edu/abs/2023AJ....165...98L/abstract) Luhn et al. (2023)
 
 ### Significance of Exoplanet Detections
 - [Statistical Methods for Exoplanet Detection with Radial Velocities](https://ui.adsabs.harvard.edu/abs/2023AnRSA..10..623H/abstract) Hara & Ford (2023)
-- [Quantifying the Bayesian Evidence for a Planet in Radial Velocity Data](https://ui.adsabs.harvard.edu/abs/2020AJ....159...73N/abstract)
+- [Quantifying the Bayesian Evidence for a Planet in Radial Velocity Data](https://ui.adsabs.harvard.edu/abs/2020AJ....159...73N/abstract) Nelson et al. (2020)
 
 ### Characterizing Exoplanet Masses & Orbits
 - [Statistical Methods for Exoplanet Detection with Radial Velocities](https://ui.adsabs.harvard.edu/abs/2023AnRSA..10..623H/abstract) Hara & Ford (2023)
@@ -47,17 +47,17 @@ tags = ["resources", "slides", "notebooks", "readings"]
 - [RUN DMC: An Efficient, Parallel Code for Analyzing Radial Velocity Observations Using N-body Integrations and Differential Evolution Markov Chain Monte Carlo](https://ui.adsabs.harvard.edu/abs/2014ApJS..210...11N/abstract) Nelson et al. (2014)
 
 ###  Rossiter-McLaughlin effect
-- [The Rossiter-McLaughlin effect in Exoplanet Research](https://arxiv.org/abs/1709.06376]) Triaud a chapter in the "Handbook of Exoplanets", ed. H. Deeg & J.A. Belmonte
+- [The Rossiter-McLaughlin effect in Exoplanet Research](https://arxiv.org/abs/1709.06376)  Chapter by Triaud in the "Handbook of Exoplanets", ed. H. Deeg & J.A. Belmonte
 
 ### Machine Learning & Stellar Variability
-- [The EXPRES Stellar Signals Project II. State of the Field in Disentangling Photospheric Velocities](https://ui.adsabs.harvard.edu/abs/2022AJ....163..171Z/abstract) (see appendices)
+- [The EXPRES Stellar Signals Project II. State of the Field in Disentangling Photospheric Velocities](https://ui.adsabs.harvard.edu/abs/2022AJ....163..171Z/abstract) Zhao et al. (2022, see appendices)
 
 ### Sun-as-a-Star Observations
 - [Observing the Sun as a Star: Design and Early Results from the NEID Solar Feed](https://ui.adsabs.harvard.edu/abs/2022AJ....163..184L/abstract) Lin et al. (2022)
-- [Three years of Sun-as-a-star radial-velocity observations on the approach to solar minimum](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.1082C/abstract)
+- [Three years of Sun-as-a-star radial-velocity observations on the approach to solar minimum](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.1082C/abstract) Collier-Cameron et al. (2019)
 - [The magnetically quiet solar surface dominates HARPS-N solar RVs during low activity](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7681L/abstract) Lakeland et al. (2024)
 - [Investigating stellar activity through eight years of Sun-as-a-star observations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.4238K/abstract) Klein et al. (2024)
-- [The Extreme Stellar-signals Project. III. Combining Solar Data from HARPS, HARPS-N, EXPRES, and NEID](https://ui.adsabs.harvard.edu/abs/2023AJ....166..173Z/abstract)
+- [The Extreme Stellar-signals Project. III. Combining Solar Data from HARPS, HARPS-N, EXPRES, and NEID](https://ui.adsabs.harvard.edu/abs/2023AJ....166..173Z/abstract) Zhao et al. (2023)
 
 
 
@@ -66,4 +66,3 @@ tags = ["resources", "slides", "notebooks", "readings"]
 - [PlutoStaticHTML.jl](https://github.com/rikhuijzer/PlutoStaticHTML.jl)
 - [Pluto](https://plutojl.org/)
 - [Julia](https://julialang.org/)
-
