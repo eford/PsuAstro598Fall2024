@@ -10,6 +10,7 @@ tags = ["resources", "slides", "notebooks", "readings"]
 ## Interactive Notebooks 
 - [CCFs](https://eford.github.io/PsuAstro589Fall2024/notebooks/week3ccf/)
 - [Periodograms & Aliasing](https://eford.github.io/PsuAstro589Fall2024/notebooks/week3aliasing/)
+- [Keplerian Model](https://eford.github.io/PsuAstro589Fall2024/notebooks/week4keplerian/)
 
 ## Potential Readings
 ### Overview of EPRV 
