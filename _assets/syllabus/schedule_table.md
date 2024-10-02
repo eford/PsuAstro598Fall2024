@@ -6,7 +6,7 @@
 |  4   | Sep 18 | Ford      | Intro to RV Analysis | [Harra & Ford (2023)](https://ui.adsabs.harvard.edu/abs/2023AnRSA..10..623H/abstract), S4-4.5 |  
 |  5   | Sep 25 | HG        | EPRV Instruments | [Schwab et al. (2016)](https://ntrs.nasa.gov/api/citations/20180004146/downloads/20180004146.pdf) | 
 |  6   | Oct 2  | CR        | EPRV Wavelength Calibration | [HPF blog](https://hpf.psu.edu/2019/02/19/the-hpf-astro-comb/), [Metcalf et al. (2019)](https://doi.org/10.1364/OPTICA.6.000233) |  
-|  7   | Oct 9  | KS        | Stellar Variability: Magnetic Activity | TBD |
+|  7   | Oct 9  | KS        | Stellar Variability: Magnetic Activity | [Meunier et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A%26A...512A..39M/abstract), S1, 3.1; [Meunier et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...632A..81M/abstract), S5 |
 |  8   | Oct 16 | RZ        | Classical Activity Indicators | TBD |
 |  9   | Oct 23 | EB        | EPRV Survey Design | TBD |
 | 10   | Oct 30 | AP        | Significance of Exoplanet Detections | TBD | 
