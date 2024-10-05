@@ -8,7 +8,7 @@
 |  6   | Oct 2  | CR        | EPRV Wavelength Calibration | [HPF blog](https://hpf.psu.edu/2019/02/19/the-hpf-astro-comb/), [Metcalf et al. (2019)](https://doi.org/10.1364/OPTICA.6.000233) |  
 |  7   | Oct 9  | KS        | Stellar Variability: Magnetic Activity | [Meunier et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A%26A...512A..39M/abstract), S1, 3.1; [Meunier et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019A%26A...632A..81M/abstract), S5 |
 |  8   | Oct 16 | RZ        | Classical Activity Indicators | [Zechmeister et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018A%26A...609A..12Z/abstract), S3.1-4.4; [Gomes da Silva et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A..77G/abstract), Appendix A2 |
-|  9   | Oct 23 | EB        | EPRV Survey Design | TBD |
+|  9   | Oct 23 | EB        | EPRV Survey Design | [Crass et al. (2021)]((https://ui.adsabs.harvard.edu/abs/2021arXiv210714291C/abstract)), Sec 3-3.2.1, Table 3.3, Sec 4-4.2  |
 | 10   | Oct 30 | AP        | Significance of Exoplanet Detections | TBD | 
 | 11   | Nov 6  | GM        | Characterizing Masses & Orbits | TBD | 
 | 12   | Nov 13 | GL        | Rossiter-McLaughlin Effect | TBD | 
